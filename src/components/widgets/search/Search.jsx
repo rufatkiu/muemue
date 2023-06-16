@@ -51,7 +51,7 @@ export default class Search extends PureComponent {
 
   searchButton = (e) => {
     e.preventDefault();
-    const value = e.target.value || document.getElementById('searchtext').value || 'mue fast';
+    const value = e.target.value || document.getElementById('searchtext').value || 'Metastem';
     variables.stats.postEvent('feature', 'Search');
     window.location.href = this.state.url + `?${this.state.query}=` + value;
   }

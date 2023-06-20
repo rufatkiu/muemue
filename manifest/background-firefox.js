@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-browser.runtime.setUninstallURL('https://muetab.com/uninstall');
+browser.runtime.setUninstallURL('https://star.metastem.su/uninstall');
 
 browser.runtime.onInstalled.addListener((details) => {
   if (details.reason === 'install') {

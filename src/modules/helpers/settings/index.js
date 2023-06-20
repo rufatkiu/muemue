@@ -120,22 +120,11 @@ export function loadSettings(hotreload) {
   }
 
   // easter egg
-  console.log(`
-█████████████████████████████████████████████████████████████                                                                        
-██                                                         ██
-██               ███    ███ ██    ██ ███████               ██  
-██               ████  ████ ██    ██ ██                    ██ 
-██               ██ ████ ██ ██    ██ █████                 ██ 
-██               ██  ██  ██ ██    ██ ██                    ██ 
-██               ██      ██  ██████  ███████               ██ 
-██                                                         ██ 
-██                                                         ██                                                                                                 
-██           Copyright 2018-${new Date().getFullYear()} The Mue Authors           ██
-██           GitHub: https://github.com/mue/mue            ██
-██                                                         ██
-██               Thank you for using Mue!                  ██
-██              Feedback: hello@muetab.com                 ██
-█████████████████████████████████████████████████████████████
+  console.log(`                                                                                               
+██Copyright 2019-${new Date().getFullYear()} Metastem Commune██
+██                                                           ██
+██               Thank you for using Metastem!               ██
+██              Feedback: chaos@metastem.su                  ██
 `);
 }
 

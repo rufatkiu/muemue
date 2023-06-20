@@ -56,7 +56,7 @@
       },
       "error_boundary": {
         "title": "Error",
-        "message": "Failed to load this component of Mue",
+        "message": "Failed to load this component of Metastem",
         "refresh": "Refresh"
       },
       "settings": {
@@ -294,7 +294,7 @@
             "data": "Data",
             "reset_modal": {
               "title": "WARNING",
-              "question": "Do you want to reset Mue?",
+              "question": "Do you want to reset Metastem?",
               "information": "This will delete all data. If you wish to keep your data and preferences, please export them first.",
               "cancel": "Cancel"
             },
@@ -306,7 +306,7 @@
               "title": "Time Zone",
               "automatic": "Automatic"
             },
-            "experimental_warning": "Please note that the Mue team cannot provide support if you have experimental mode on. Please disable it first and see if the issue continues to occur before contacting support."
+            "experimental_warning": "Please note that the Metastem team cannot provide support if you have experimental mode on. Please disable it first and see if the issue continues to occur before contacting support."
           },
           "stats": {
             "title": "Stats",
@@ -373,14 +373,14 @@
               }
             },
             "contact_us": "Contact Us",
-            "support_mue": "Support Mue",
+            "support_mue": "Support Metastem",
             "resources_used": {
               "title": "Resources used",
               "bg_images": "Offline background images"
             },
             "contributors": "Contributors",
             "supporters": "Supporters",
-            "no_supporters": "There are currently no Mue supporters",
+            "no_supporters": "There are currently no Metastem supporters",
             "photographers": "Photographers"
           }
         },
@@ -402,7 +402,7 @@
           "version": "Versjon",
           "author": "Forfatter",
           "buttons": {
-            "addtomue": "Legg Til Mue",
+            "addtomue": "Legg Til Metastem",
             "remove": "Fjern",
             "update_addon": "Update Add-on"
           },
@@ -493,26 +493,26 @@
       "tip": "Quick Tip",
       "sections": {
         "intro": {
-          "title": "Welcome to Mue Tab",
+          "title": "Welcome to Metastem",
           "description": "Thank you for installing Mue, we hope you enjoy your time with our extension."
         },
         "language": {
           "title": "Choose your language",
-          "description": "Mue can be displayed the languages listed below. You can also add new translations on our"
+          "description": "Metastem can be displayed the languages listed below. You can also add new translations on our"
         },
         "theme": {
           "title": "Select a theme",
-          "description": "Mue is available in both light and dark theme, or this can be automatically set depending on your system theme.",
+          "description": "Metastem is available in both light and dark theme, or this can be automatically set depending on your system theme.",
           "tip": "Using the Auto settings will use the theme on your computer. This setting will impact the modals and some of the widgets displayed on the screen, such as weather and notes."
         },
         "settings": {
           "title": "Import Settings",
-          "description": "Installing Mue on a new device? Feel free to import your old settings!",
+          "description": "Installing Metastem on a new device? Feel free to import your old settings!",
           "tip": "You can export your old settings by navigating to the Advanced tab in your old Mue setup. Then you need to click the export button which will download the JSON file. You can upload this file here to carry across your settings and preferences from your previous Mue installation."
         },
         "privacy": {
           "title": "Privacy Options",
-          "description": "Enable settings to further protect your privacy with Mue.",
+          "description": "Enable settings to further protect your privacy with Metastem.",
           "offline_mode_description": "Enabling offline mode will disable all requests to any service. This will result in online backgrounds, online quotes, marketplace, weather, quick links, change log and some about tab information to be disabled.",
           "ddg_proxy_description": "You can make image requests go through DuckDuckGo if you wish. By default, API requests go through our open source servers and image requests go through the original server. Turning this off for quick links will get the icons from Google instead of DuckDuckGo. DuckDuckGo proxy is always enabled for the Marketplace.",
           "links": {
@@ -523,7 +523,7 @@
         },
         "final": {
           "title": "Final step",
-          "description": "Your Mue Tab experience is about to begin.",
+          "description": "Your Metastem experience is about to begin.",
           "changes": "Changes",
           "changes_description": "To change settings later click on the settings icon in the top right corner of your tab.",
           "imported": "Imported {amount} settings"

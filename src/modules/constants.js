@@ -15,18 +15,18 @@ export const BLOG_POST = 'https://blog.muetab.com/posts/version-6-0';
 export const TRANSLATIONS_URL = 'https://docs.muetab.com/translations/';
 
 // Mue Info
-export const ORG_NAME = 'mue';
-export const REPO_NAME = 'mue';
-export const EMAIL = 'hello@muetab.com';
-export const TWITTER_HANDLE = 'getmue';
-export const DISCORD_SERVER = 'zv8C9F8';
-export const COPYRIGHT_NAME = 'The Mue Authors';
-export const COPYRIGHT_YEAR = '2018';
+export const ORG_NAME = 'Metastem';
+export const REPO_NAME = 'Metastem';
+export const EMAIL = 'chaos@metastem.su';
+export const TWITTER_HANDLE = 'getmetastem';
+export const DISCORD_SERVER = '';
+export const COPYRIGHT_NAME = 'Metastem Commune';
+export const COPYRIGHT_YEAR = '2019';
 export const COPYRIGHT_LICENSE = 'BSD-3-Clause License';
-export const SPONSORS_USERNAME = 'davidcralph';
-export const LIBERAPAY_USERNAME = 'mue';
-export const KOFI_USERNAME = 'davidcralph';
-export const PATREON_USERNAME = 'davidcralph';
+export const SPONSORS_USERNAME = 'Metastem Commune';
+export const LIBERAPAY_USERNAME = 'Metastem';
+export const KOFI_USERNAME = 'Metastem Commune';
+export const PATREON_USERNAME = 'Metastem Commune';
 
 export const OFFLINE_IMAGES = 20;
 

@@ -5,7 +5,7 @@
   "name": "__MSG_name__",
   "description": "__MSG_description__",
   "version": "6.0.6",
-  "homepage_url": "https://muetab.com",
+  "homepage_url": "https://www.metastem.su",
   "browser_action": {
     "default_icon": "icons/128x128.png"
   },

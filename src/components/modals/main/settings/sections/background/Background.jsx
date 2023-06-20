@@ -22,7 +22,7 @@ export default class BackgroundSettings extends PureComponent {
       backgroundType: localStorage.getItem('backgroundType') || 'api',
       backgroundFilter: localStorage.getItem('backgroundFilter') || 'none',
       backgroundCategories: [this.getMessage('modals.main.loading')],
-      backgroundAPI: localStorage.getItem('backgroundAPI') || 'mue',
+      backgroundAPI: localStorage.getItem('backgroundAPI') || 'metastem',
       marketplaceEnabled: localStorage.getItem('photo_packs')
     };
     this.controller = new AbortController();
@@ -62,8 +62,8 @@ export default class BackgroundSettings extends PureComponent {
 
     const apiOptions = [
       {
-        name: 'Mue',
-        value: 'mue'
+        name: 'Metastem',
+        value: 'metastem'
       },
       {
         name: 'Unsplash',

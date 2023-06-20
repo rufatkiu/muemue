@@ -116,7 +116,7 @@ export default class WelcomeSections extends PureComponent {
       <>
         <h1>{this.getMessage('modals.welcome.sections.intro.title')}</h1>
         <p>{this.getMessage('modals.welcome.sections.intro.description')}</p>
-        <h3 className='quicktip'>#shareyourmue</h3>
+        <h3 className='quicktip'>#shareyourmetastem</h3>
         <div className='examples'>
           <img src={`./welcome-images/example${[this.state.welcomeImage + 1]}.webp`} alt='Example Mue setup' draggable={false}/>
         </div>

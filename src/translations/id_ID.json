@@ -1,5 +1,5 @@
 {
-  "tabname": "Tab Baru",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "Selamat Pagi",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Hubungi Kami",
-            "support_Metastem": "Dukung Metastem",
+            "support_mue": "Dukung Metastem",
             "resources_used": {
               "title": "Resources yang kami gunakan",
               "bg_images": "Offline background images"
@@ -402,7 +402,7 @@
           "version": "Versi",
           "author": "Kreator",
           "buttons": {
-            "addtoMetastem": "Tambahkan ke Metastem",
+            "addtomue": "Tambahkan ke Metastem",
             "remove": "Hapus",
             "update_addon": "Perbarui Add-on"
           },

@@ -1,5 +1,5 @@
 {
-  "tabname": "New Tab",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "Goedemorgen",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Contact Us",
-            "support_Metastem": "Support Metastem",
+            "support_mue": "Support Metastem",
             "resources_used": {
               "title": "Resources used",
               "bg_images": "Offline background images"
@@ -402,7 +402,7 @@
           "version": "Versie",
           "author": "Maker",
           "buttons": {
-            "addtoMetastem": "Toevoegen aan Metastem",
+            "addtomue": "Toevoegen aan Metastem",
             "remove": "Verwijderen",
             "update_addon": "Update Add-on"
           },

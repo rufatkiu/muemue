@@ -9,8 +9,8 @@ export const MAPBOX_URL = 'https://api.mapbox.com';
 export const OPENSTREETMAP_URL = 'https://www.openstreetmap.org';
 
 // Mue URLs
-export const WEBSITE_URL = 'https://metastem.su';
-export const PRIVACY_URL = 'https://metastem.su/privacy';
+export const WEBSITE_URL = 'https://home.metastem.su';
+export const PRIVACY_URL = 'https://home.metastem.su/privacy';
 export const BLOG_POST = 'https://blog.metastem.su/';
 export const TRANSLATIONS_URL = 'https://docs.metastem.su/translations/';
 

@@ -1,5 +1,5 @@
 {
-    "tabname": "Yeni Sekme",
+    "tabname": "Metastem",
     "widgets": {
         "greeting": {
             "morning": "Günaydın",
@@ -373,7 +373,7 @@
                             }
                         },
                         "contact_us": "İletişime geç",
-                        "support_Metastem": "Metastem'ye destekde bulun",
+                        "support_mue": "Metastem'ye destekde bulun",
                         "resources_used": {
                             "title": "Kullanılan kaynaklar",
                             "bg_images": "Çevrimdışı arkaplan resimleri"
@@ -402,7 +402,7 @@
                     "version": "Version",
                     "author": "Yapımcı",
                     "buttons": {
-                        "addtoMetastem": "Metastem'ye Ekle",
+                        "addtomue": "Metastem'ye Ekle",
                         "remove": "Kaldır",
                         "update_addon": "Eklentiyi Güncelle"
                     },

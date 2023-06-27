@@ -1,5 +1,5 @@
 {
-  "tabname": "New Tab",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "Доброе утро",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Contact Us",
-            "support_Metastem": "Support Metastem",
+            "support_mue": "Support Metastem",
             "resources_used": {
               "title": "Resources used",
               "bg_images": "Offline background images"
@@ -402,7 +402,7 @@
           "version": "Версия",
           "author": "Автор",
           "buttons": {
-            "addtoMetastem": "Добавить в Metastem",
+            "addtomue": "Добавить в Metastem",
             "remove": "Удалить",
             "update_addon": "Update Add-on"
           },

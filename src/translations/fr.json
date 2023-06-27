@@ -1,5 +1,5 @@
 {
-  "tabname": "Nouvel Onglet",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "Bonjour",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Nous contacter",
-            "support_Metastem": "Soutenir Metastem",
+            "support_mue": "Soutenir Metastem",
             "resources_used": {
               "title": "Ressources utilisées",
               "bg_images": "Images d'arrière-plan hors ligne"
@@ -402,7 +402,7 @@
           "version": "Version",
           "author": "Auteur",
           "buttons": {
-            "addtoMetastem": "Ajouter à Metastem",
+            "addtomue": "Ajouter à Metastem",
             "remove": "Enlever",
             "update_addon": "Update Add-on"
           },

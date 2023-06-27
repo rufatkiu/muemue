@@ -1,5 +1,5 @@
 {
-  "tabname": "Nueva pestaña",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "Buenos días",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "Contacto",
-            "support_Metastem": "Apoya Metastem",
+            "support_mue": "Apoya Metastem",
             "resources_used": {
               "title": "Recursos usados",
               "bg_images": "Imágenes de fondo sin conexión"
@@ -402,7 +402,7 @@
           "version": "Versión",
           "author": "Autor",
           "buttons": {
-            "addtoMetastem": "Añadir a Metastem",
+            "addtomue": "Añadir a Metastem",
             "remove": "Desinstalar",
             "update_addon": "Actualizar complemento"
           },

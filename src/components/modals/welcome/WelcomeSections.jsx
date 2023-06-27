@@ -118,7 +118,7 @@ export default class WelcomeSections extends PureComponent {
         <p>{this.getMessage('modals.welcome.sections.intro.description')}</p>
         <h3 className='quicktip'>#shareyourmetastem</h3>
         <div className='examples'>
-          <img src={`./welcome-images/example${[this.state.welcomeImage + 1]}.webp`} alt='Example Mue setup' draggable={false}/>
+          <img src={`./welcome-images/example${[this.state.welcomeImage + 1]}.webp`} alt='Example Metastem setup' draggable={false}/>
         </div>
       </>
     );

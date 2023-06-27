@@ -1,5 +1,5 @@
 {
-  "tabname": "新标签页",
+  "tabname": "Metastem",
   "widgets": {
     "greeting": {
       "morning": "早上好",
@@ -373,7 +373,7 @@
               }
             },
             "contact_us": "联系我们",
-            "support_Metastem": "支持 Metastem",
+            "support_mue": "支持 Metastem",
             "resources_used": {
               "title": "使用资源",
               "bg_images": "离线背景"
@@ -402,7 +402,7 @@
           "version": "版本",
           "author": "作者",
           "buttons": {
-            "addtoMetastem": "添加至 Metastem",
+            "addtomue": "添加至 Metastem",
             "remove": "卸载",
             "update_addon": "Update Add-on"
           },

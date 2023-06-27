@@ -181,7 +181,7 @@ export default class Quote extends PureComponent {
 
   tweetQuote() {
     variables.stats.postEvent('feature', 'Quote tweet');
-    window.open(`https://twitter.com/intent/tweet?text=${this.state.quote} - ${this.state.author} on @getmue`, '_blank').focus();
+    window.open(`https://twitter.com/intent/tweet?text=${this.state.quote} - ${this.state.author} on @metastemsu`, '_blank').focus();
   }
 
   favourite() {
